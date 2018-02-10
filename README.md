@@ -2,6 +2,8 @@
 
 Toy scheduler for use in Kubernetes demos.
 
+Using as a starting point for problematic Java based containers that use huge amounts of CPU at start up.
+
 ## Usage
 
 Annotate each node using the annotator command:
